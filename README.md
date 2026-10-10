@@ -1,2 +1,1 @@
-# lambert-lab-v1
-lambert function  for solving complex equtions
+file:///C:/Users/HP/Dropbox/PC/Downloads/lambert-lab.html
